@@ -68,6 +68,7 @@ New variable names:
 
 'activity':
 - Factor w/ 6 levels 'WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING'
+
 'subject':
 - Integer 1:30. 
 - 30 volunteers within an age bracket of 19-48 years.
