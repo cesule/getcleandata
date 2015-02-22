@@ -73,7 +73,7 @@ New variable names:
 - Integer 1:30. 
 - 30 volunteers within an age bracket of 19-48 years.
 
-The data was normalised (no units). The complete list of 68 variables:
+The data was normalized (unit free). The complete list of 68 variables:
 
 - "x"
 - "1" "activity"
