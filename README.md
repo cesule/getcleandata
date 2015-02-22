@@ -3,8 +3,7 @@
 ==================================================================
 Course Project
 ==================================================================
-Performing analysis with Human Activity Recognition Using 
-Smartphones Dataset.
+Performing analysis with Human Activity Recognition Using Smartphones Dataset.
 ==================================================================
 
 This repo includes the following files:
@@ -89,7 +88,6 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Notes: 
 ======
 - The command for reading 'tidy.txt' in R and looking at it in R:
-tidyData <- read.table("tidy.txt", header=TRUE)
-View(tidyData)
+tidyData <- read.table("tidy.txt", header=TRUE) ; View(tidyData)
 - For reference, see thread https://class.coursera.org/getdata-011/forum/thread?thread_id=69
 
