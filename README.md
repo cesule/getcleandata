@@ -4,7 +4,6 @@
 Course Project
 ==================================================================
 Performing analysis with Human Activity Recognition Using Smartphones Dataset.
-==================================================================
 
 This repo includes the following files:
 =========================================
