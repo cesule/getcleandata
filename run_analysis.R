@@ -85,4 +85,3 @@ dim(tidy)
 # tidy has 180 observations and 68 variables
 
 write.table(tidy, "tidy.txt", row.name=FALSE)
-View(tidy)
